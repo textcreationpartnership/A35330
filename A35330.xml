@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cry of oppression and cruelty inflicted upon divers innocent people called Quakers, in the county of Glocester, for peaceable meeting together to worship God being a copy of a paper directed to the judges of the late assizes at Glocester presented to the tender consideration of such who are in power to relieve the oppressed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35330</idno>
+            <idno type="STC">Wing C7449A</idno>
+            <idno type="STC">ESTC R30286</idno>
+            <idno type="EEBO-CITATION">11283346</idno>
+            <idno type="OCLC">ocm 11283346</idno>
+            <idno type="VID">47283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1459:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cry of oppression and cruelty inflicted upon divers innocent people called Quakers, in the county of Glocester, for peaceable meeting together to worship God being a copy of a paper directed to the judges of the late assizes at Glocester presented to the tender consideration of such who are in power to relieve the oppressed.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Freedom of religion --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:47283:1" rendition="simple:additions"/>
+            <head>THE CRY OF OPPRESSION and CRUELTY</head>
+            <div type="account">
+               <head>Inflicted upon divers Innocent People called <hi>Quakers,</hi> in the County of <hi>Gloceſter,</hi> for peaceable meeting together to worſhip God; being a Copy of a Paper directed to the Judges of the late Asſizes at <hi>Gloceſter;</hi> preſented to the tender Conſiderati<g ref="char:EOLhyphen"/>on of ſuch, who are in Power to relieve the oppreſſed.</head>
+               <p>BEfore you we lay our Grievances in as brief a manner as may be, deſiring you may weigh and conſider thereof, and re<g ref="char:EOLhyphen"/>lieve the oppreſſed, who are a People ſearing God, and do ſhew forth the Fruits of his Heavenly Gift, in walking ho<g ref="char:EOLhyphen"/>neſtly and juſtly in the ſight of all our Neighbours and Country-men.</p>
+               <p>This is an Account of the ſad and deep Sufferings of the People called QUAKERS in and about <hi>Winterburn</hi> and <hi>Olverſtone,</hi> and about <hi>Kings-Weſtone,</hi> and about <hi>Weſterly,</hi> and <hi>Little Badmanton,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Gloceſter,</hi> in the years, 1676, and 1677. by <hi>Francis Fane,</hi> and <hi>Ga<g ref="char:EOLhyphen"/>briel Low,</hi> and <hi>John Meridith,</hi> called Juſtices of the Peace.</p>
+               <p>In and about thoſe Places aforeſaid, from about Fifty Eight Perſons Inhabitants thereabout, there hath been taken away and loſt of their Goods, on Account of the late Act againſt Conventicles, by Warrants from the Juſtices aforeſaid, the Goods and Loſſes already ſuffered amounting to about 717 <abbr>l.</abbr> 11 <abbr>s.</abbr> the Particulars being ready to be ſhew<g ref="char:EOLhyphen"/>ed to them that deſire it: And beſides the Account above, there are more Fines impoſed, and Warrants granted thereupon, to the value of One Thouſand Pounds and upwards.</p>
+               <p>Alſo a further account of the moſt cruel and barbarous Actions and Proceedings of <hi>J. Meridith</hi> called Juſtice, againſt an Innocent, Harmleſs People for no other cauſe, but for their meeting and worſhipping the Lord God of Heaven and Earth; and in the pure Worſhip in the Spi<g ref="char:EOLhyphen"/>rit of Truth endeavouring to keep their Conſciences void of Offence both to God and man.—He cauſed 27 Perſons to be indicted at the
+<pb n="2" facs="tcp:47283:2"/>Seſſions at <hi>Gloceſter,</hi> in the year 1677. for not coming to their Church ſo called, though many of them had been Sufferers by the Act a<g ref="char:EOLhyphen"/>gainſt Conventicles; and they were threatned with Impriſonment.</p>
+               <p>The ſaid Juſtice <hi>Meridith</hi> at a Meeting ſent <hi>Henry Poyntin</hi> and <hi>Na<g ref="char:EOLhyphen"/>thaniel Heskins</hi> to priſon, for not finding Sureties for their good Be<g ref="char:EOLhyphen"/>haviour, though no misbehaviour was proved againſt them: and they were kept above a quarter of a year priſoners, on no other Account, without any Trial: and then he cauſed an Indictment to be read a<g ref="char:EOLhyphen"/>gainſt them, above a quarter of a year after they had been impriſoned as aforeſaid: and that Indictment being read at the Seſſions againſt them, for not coming to their Church ſo called, for eight weeks, they were fined Forty Pounds a piece, and kept Priſoners as they had been above three Moneths, and had no Trial, and are Priſoners to this day.</p>
+               <p>The ſaid Juſtice <hi>Meridith</hi> at a Meeting at <hi>Frenchbaw,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Gloceſter,</hi> upon the 13th day of the 4th moneth (commonly cal<g ref="char:EOLhyphen"/>led <hi>June</hi>) fell upon <hi>William Bennet,</hi> and beat him very ſorely; and he did beat <hi>William Wade</hi> alſo. The twentieth of the ſame Moneth, at the ſame place, in the High-way, near the Meeting-houſe, be found <hi>John Silcock</hi> and he took him by the hair of the Head, and pluckt him into the Meeting-houſe Yard, and then drew his naked Knife, and ſaid, <hi>He would mark him;</hi> but his own Clerk and others ſtepped in and prevented him: otherwiſe it was verily thought, he would have done the ſaid <hi>Silcock</hi> ſome great miſchief.—The twenty third of the ſame moneth, coming to the ſame place, he demanded of <hi>George Peace</hi> what his Name was, and he not giving his Name ſuddenly, <hi>John Meridith</hi> drew his naked Knife upon him, but one of his own Servants reſtrained him from his wicked purpoſe.—The twenty ſeventh of the ſame moneth at the ſame place, the ſaid <hi>John Meridith</hi> took <hi>John Bawn</hi> and pulled him by the hair of the head, and after that finding him in the High-way the ſame day, he fell upon him and beat him af<g ref="char:EOLhyphen"/>ter a very cruel and barbarous manner.</p>
+               <p>And the ſaid <hi>Meridith</hi> did beat <hi>John Fryer,</hi> and <hi>Joſeph Glover</hi> two Officers, becauſe they refuſed to pull and hale people as he would have them. <hi>Samuel Symons</hi> making his Appeal to <hi>John Meridith</hi> for a Fine taken from him, the ſaid <hi>Meridith</hi> fell upon him and beat him exceedingly in his own houſe.</p>
+               <p>Several others were beaten and abuſed by the ſaid <hi>Meridith,</hi> which would be tedious to mention particuly. Many Friends were Eye-wit<g ref="char:EOLhyphen"/>neſſes to theſe Paſſages. And the ſaid Juſtice <hi>Meridith</hi> broke five Glaſs
+<pb n="3" facs="tcp:47283:2"/>Windows to pieces with his Staff, not leaving ſo much as one whole Quarrel, and alſo cauſed the Benches and Formes to be cut to pieces.</p>
+               <p>Since the Account aforeſaid there hath been taken from <hi>John Boy</hi> of <hi>Luckinton,</hi> for three ſeveral Fines amounting to 11 <abbr>l.</abbr> goods worth about the ſame value, by Warrant from Juſtice <hi>Gabriel Low.</hi>
+               </p>
+               <p>And the Officers when they ſeized upon our poor Friends Goods, belonging to <hi>Badmanton</hi> Meeting, did ſay, they were charged by <hi>Gabriel Low</hi> Juſtice, to take all they could find, and that which was not worth carrying away, they ſhould burn it, or break it to pieces, inſomuch that <hi>Thomas Holbrow</hi> an old blind man, and his wiſe, and ſeveral other poor Friends, had not a Bed left them, but their Lodging hath been on Straw for ſeveral weeks; and its above eleven Moneths ſince the blind man's Bed was taken, and his Lodging is on Straw to this day. And ſome Friends lent ſome of the Sufferers a Bed and Coverlets, and ſome other things to keep them warm in the winter, and the ſaid Of<g ref="char:EOLhyphen"/>ficers took away part thereof, and broke the Bedſtead, and cut the Cord. Alſo the aforeſaid blind man and <hi>Henry Aſh by</hi> of <hi>Hawksbu<g ref="char:EOLhyphen"/>ry-<g ref="char:V">Ʋ</g>pton</hi> were taken up by Seſſions Proceſs, and carried to Goal, be<g ref="char:EOLhyphen"/>ing indicted by that Act for not going to their Worſhip.</p>
+               <p>Some of the <hi>Marqueſs of Worceſter</hi> his Servants, <hi>Thomas Cook</hi> his Butcher, <hi>Robert Long</hi> his Brewer, <hi>John Newman</hi> his Keeper, Theſe became Informers, and went to <hi>Little Badmanton</hi> often to the <hi>Quake's</hi> Peaceable Meetings being at the Blind man's houſe &amp; there in a moſt cruel barbarous manner abuſed the Innocent People of that Meeting, of which Abuſes he eare ſome few Inſtances, for the ſake of them that have ſome Tenderneſs in them, and are againſt theſe wicked Practices.</p>
+               <p>
+                  <hi>Thomas Cook</hi> the Butcher one of the Informers aforeſaid, at the ſaid Meeting ſaid, <hi>It was no more ſin to kill one of them, then to kill a Dog:</hi> He did much abuſe <hi>Sarah Aſhby,</hi> by punching, beating, and uſing her in a ſhameful manner, And ſo did <hi>John Newman</hi> another of the afore<g ref="char:EOLhyphen"/>ſaid Informers throw the ſaid <hi>Sarah</hi> to the Ground in a ſhameful, wicked manner; and by the wrong ſhe received, ſhe ſuffered damage to her Body, and ſome time after fell ill. The ſaid Informers came to the Meeting when there were but three Perſons beſides the Fami<g ref="char:EOLhyphen"/>ly, whom they took and threw againſt the walls, and againſt the Poſts of the Door in a cruel barbarous manner; and <hi>Thomas Holbrow</hi> the blind man of the houſe told them, their Actions were quite contrary to the Act; the ſaid Informers replied, <hi>What do you tell us of the Act? We matter not the Act.</hi> The ſaid Informers abuſed <hi>John Jones</hi> in a deſperate ſhameful manner, throwing him over the Gate ſeveral times
+<pb n="4" facs="tcp:47283:3"/>to the hazard of his Life, throwing him upon his Back, and then laid him thwart a Stick, and in a grievous manner abuſed him.</p>
+               <p>And at another time, when the ſaid Informers were abuſing Friends, they ſaid, <hi>If we kill one of you, we believe we ſhall not be hang<g ref="char:EOLhyphen"/>ged for it.</hi>
+               </p>
+               <p>And the ſaid Informers took <hi>Benjamin Power,</hi> and threw him over a wall, and did beat him in a ſhameful manner; and at another time in a Meadow, the ſaid Informers took him, and threw him upon his Back, and in a moſt wicked manner abuſed him. And the ſaid Infor<g ref="char:EOLhyphen"/>mers took <hi>John Boy</hi> and threw him over a Gate and Stile ſeveral times, and dragged him in the Street on his Back, in the Dirt, and drove him in a Wheel-Barrow, and threw water on him, alſo they took him a Height from the Ground, and let him fall on his Back; This they have done ſeveral times. Alſo the ſaid Informers took <hi>John Tay<g ref="char:EOLhyphen"/>ler</hi> in the Street, and ſtruck him Several deſperate Blows, and threw him over a Wall in ſuch a dangerous manner that it might have un<g ref="char:EOLhyphen"/>done him. <hi>Thomas Cock</hi> Informer took <hi>Nehemiah Stinchcomb</hi> and led him away from the Meeting, out of ſight, and did beat him till his fleſh was black; and had not one looked over a Wall accidentally, they knew not but he might have been ſpoiled: And he lay very ill under the Bruiſes ſeveral dayes.</p>
+               <p>The ſaid Informers took <hi>John Beard</hi> as he was going into a Friends houſe, by the hair of the head, and beat his head againſt a Poſt in an Unchriſtian-like manner; and they ſwore very deſperate Oaths, <hi>That they would out off his Ears;</hi> and they followed him half a Mile Beating, Kicking, Punching, and Nipping him by the Ears, in a very wicked barbarous manner; another time they put a Rope about his Neck, and ſo led him up the Street. The ſaid Informers took <hi>John Peace,</hi> a man about ſixty four years old, and dragged him out of the Meeting into the Street, and threw him upon his Back, and then took him up by his Girdle above the Ground, and let him fall again, in a deſperate manner: Moreover they ſaid, they would throw him into a Well (which was near) but one coming by prevented them; and being much bruiſed he complained of it a great while.</p>
+               <p>It would be tedious to inſtance all the Wrongs and Injuries which theſe Innocent People have ſuuſtained from theſe wicked malicious In<g ref="char:EOLhyphen"/>formers.</p>
+               <p>And alſo ſome ſuffer by the <hi>Act</hi> of 12 <abbr>d.</abbr> a day for not coming to the Pariſh-Church ſo called: So the Judges, and others in Authority to do Juſtice, may ſee how many Laws are laid upon us, to deſtroy us,
+<pb n="5" facs="tcp:47283:3"/>contrary to the King's Words and Speeches (viz.) <hi>That none ſhould call us in Queſtion if we live Peaceable:</hi> And none can juſtly ſay, that ever we did forfeit our Liberty: And we do believe it is not the King's mind, that we ſhould be ruinated and deſtroyed, who are his Peaceable Subjects, and deſire his Good, and all that are under HIM.</p>
+            </div>
+            <div type="account">
+               <head>A further Account of the Sufferings of the People called <hi>Quakers</hi> in the <hi>Forreſt of Dean,</hi> in the County of <hi>Gloceſter,</hi> upon the late Act againſt Conventicles; By theſe and ſuch like proceed<g ref="char:EOLhyphen"/>ings the Cruelty of the Mercileſs is made manifeſt.</head>
+               <p>
+                  <hi>JOhn Gwyn</hi> of <hi>Colford</hi> in the County aforeſaid, for being at Meetings to worſhip God, in the aforeſaid Town, was fined Twenty five Shil<g ref="char:EOLhyphen"/>lings, for three ſeveral Meetings (viz.) the firſt Meeting being on the ſeventh day of the eighth moneth, 77. The ſecond upon the twenty firſt of the eighth moneth, 77. The third Meeting being upon the eighth day of the tenth moneth, 77. for which he had a Mare, Sad<g ref="char:EOLhyphen"/>dle, Bridle, Hatchet, Nippers, Looking-glaſs, and two Eggs, and his Wife's nurſing-basket and Comb (having a Wife and five ſmall Chil<g ref="char:EOLhyphen"/>dren) with other Goods taken from him upon the twenty firſt day of the tenth moneth, 77. to the value of 3 <abbr>l.</abbr> by <hi>John Benfield</hi> Conſta<g ref="char:EOLhyphen"/>ble of the ſaid Town, by virtue of a warrant from <hi>Baynham Throck-morton</hi> Knight, upon Information to the ſaid Juſtice by <hi>Charles Willi<g ref="char:EOLhyphen"/>ams</hi> Bailiff of the Hundred, and <hi>William Vick</hi> being Informers.</p>
+               <p>
+                  <hi>William Hibbs</hi> of <hi>Aylburton,</hi> in the County aforeſaid, for being at the ſame Meeting to worſhip God, was fined in the ſum of twenty ſhillings; and by warrant from the aforeſaid Juſtice, directed to <hi>Richard Brown</hi> Conſtable, who came with other Officers the laſt day of the tenth moneth, 77. to take diſtreſs; and the ſaid <hi>William</hi> not being at home, <hi>John Mills</hi> Overſeer of the poor, violently broke open his Son <hi>Jonathan Hibs</hi> his ſhop door, and took as much Cloth of Linnen, and Wollen, that was worth twelve Ponnds and upwards, for the fine of twenty ſhillings impoſed upon his Father.</p>
+               <p>
+                  <hi>Jenkin Hopkin</hi> of <hi>Colford</hi> for being at the ſame Meetings, was fined for himſelf and others, in the ſum of 14 <abbr>l.</abbr> of the which fine 10 <abbr>l.</abbr> was for the Speaker; the aforeſaid <hi>John Benfield</hi> Conſtable, with ſeveral other Officers, came to take Diſtreſs the twenty fourth day of the tenth moneth, 77. and did take away out of his ſhop, Cloth and other Goods; and the twenty ſixth day following, they being not ſatisfied
+<pb n="6" facs="tcp:47283:4"/>for the fine, came again and riffled his ſhop and his houſe, and carried away what they pleaſed, not leaving Bed-clothes to cover himſelf, his Wife &amp; Children; This was done in the preſence of many of his Neigh<g ref="char:EOLhyphen"/>bours; who ſeeing their Cruelty, did lament and weep, and ſaid, <hi>They feared God's Judgments would come upon them, becauſe of ſuch Do<g ref="char:EOLhyphen"/>ings:</hi> The value of which Goods cannot at preſent be juſtly given account of as hereafter may.</p>
+               <p>
+                  <hi>Henry Lloyd</hi> of <hi>Alvington</hi> in the County aforeſaid, being fined in the ſum of twenty pounds, for the Meeting-houſe, and by Warrant from the aforeſaid Juſtice, directed to <hi>John Knight</hi> Conſtable of the aforeſaid Town, who with other Officers came and ſeized upon his Corn in his Barn, to the value of Thirty pounds.</p>
+               <p>
+                  <hi>William Howel</hi> of <hi>Colford,</hi> for being at the ſame Meetings before mentioned, was fined in twenty five ſhillings, for which he had Iron and other Goods taken from him the twenty ſixth day of the eleventh moneth, 77. by <hi>John Benfiëld</hi> Conſtable of the aforeſaid Town, and other Officers, worth three pounds, which Goods, fifty ſhillings worth of it not being his own, the Owner had it again.</p>
+               <p>
+                  <hi>John Rainolds</hi> of <hi>Beryhill,</hi> for being at one of the ſaid Meetings be<g ref="char:EOLhyphen"/>fore named, was fined in five ſhillings for himſelf, and ten pounds for the Speaker, for which he had taken from him on the twenty ſixth day of the tenth moneth, 77. by the aforeſaid Conſtable and other Officers, by Warrant from the aforeſaid Juſtice, One Cow, One brew<g ref="char:EOLhyphen"/>ing-Kettle, One big Iron Pot, One Braſs Pot, One big Braſs Candle<g ref="char:EOLhyphen"/>ſtick, One Pewter Candleſtick, Three Diſhes of Pewter, One Pewter Salt-ſellar, One Gridiron, Two Dripping-pans, One Bolſter, One Pillow, One Coverlet, and a Table-cloth: The juſt worth of theſe Goods we know not.</p>
+               <closer>
+                  <dateline>
+                     <hi>This Account was taken</hi> 
+                     <date>
+                        <hi>the</hi> 22d <hi>day of the</hi> 11th <hi>moneth,</hi> 77.</date>
+                  </dateline>
+                  <signed>
+                     <hi>by us whoſe Names are hereunto ſubſcribed.</hi>
+                     <list>
+                        <item>
+                           <hi>Henry Lloyd</hi>
+                        </item>
+                        <item>
+                           <hi>Jenkin Hopkin.</hi>
+                        </item>
+                        <item>
+                           <hi>William Hibbs.</hi>
+                        </item>
+                        <item>
+                           <hi>John Hibbs.</hi>
+                        </item>
+                        <item>
+                           <hi>William Howel.</hi>
+                        </item>
+                        <item>
+                           <hi>John Gwyn.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="7" facs="tcp:47283:4"/>
+            <head>A Poſtſcript.</head>
+            <p>WE are perſwaded, yea, clearly and fully ſatisfied by our Lord and Saviour Jeſus Chriſt, That NONE <hi>(Eſpecially ſuch)</hi> who do profeſs his Holy Name and Doctrine, <hi>Ought to perſecute about, or concerning Religion, Faith and Worſhip of the living God;</hi> Perſecution be<g ref="char:EOLhyphen"/>ing wholely inconſiſtant with the Tender Spirit, Holy Doctrine, Meek and Innocent Converſation of the Heavenly Man Chriſt Jeſus our ſouls Captain, High-Prieſt and Biſhop, who came not to coſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy mens Lives, but to ſave them, who is our Prince of Peace, who leads us in<g ref="char:EOLhyphen"/>to Peace with God, and one with another, and to have Unfeigned Love unto our Enemies; in which Love we pray for thoſe who have and do perſecute and Diſpitefully uſe us, in which we deſire their Unfeigned Repentance, and Salvation.</p>
+            <p>The Law which came by <hi>Moſes,</hi> which puniſhed thoſe who rebelled againſt God (in running into falſe worſhip &amp; Idolatry) with outward &amp; bodily Puniſhment to death, was ended by our Lord Jeſus Chriſt, who offered up himſelf through the eternal ſpirit, 1600 years ago, as a Lamb without Spot and Blemiſh, who rebuked his own Diſciples, who in their infancy would have fire come down from heaven to deſtroy thoſe who would not receive him: We believe and are aſſured by him, that it is the Duty of his Diſciples and Miniſters to labour in the Spirit of Truth, in Unfeigned Love, Meekneſs and Patience, to convince and convert Idolators and all Gainſayers (who are under Miſtakes about Religion, Faith in God and Chriſt, and Worſhip, &amp;c.) by Sound Do<g ref="char:EOLhyphen"/>ctrine, Good Life and Converſation; for ſo Chriſt Jeſus and his Holy Apoſtles and Miniſters did; whoſe Holy Doctrine and Example we are exhorted, by him and them, to follow: By theſe Spiritual Weapons they deſtroyed Idolatry out of the hearts of Multitudes and covert<g ref="char:EOLhyphen"/>ed them to God; but thoſe who have pretended to ſet up and uphold Chriſtian Religion, by outward Violence, in oppreſſing People, and deſtroying them in their Perſons and Eſtates, by theſe their Carnal and Unchriſtian VVeapons, they never made one True Chriſtian, nor ever can; but ſuch do bring a great Scandal upon the Name of Chri<g ref="char:EOLhyphen"/>ſtianity among the <hi>Turks, Jews</hi> and <hi>Heathens.</hi>
+            </p>
+            <p>Chriſt and his Apoſtles were perſecuted for their pure, peaceble Religion, but they never perſecuted any. VVe deſire the Rulers and Magiſtrates of <hi>England</hi> ſeriouſly to conſider of theſe things, and of
+<pb n="8" facs="tcp:47283:5"/>the many Grievous Burdens which have been laid and long continued upon us in our Perſons and Eſtates, <hi>Only</hi> for our Faith in, and Obe<g ref="char:EOLhyphen"/>dience to God and Chriſt. And we deſire you in the Fear and Love of God, to exerciſe your Power to remove Oppreſſion from off the Peaceable People of God in this Land, that the God that made you may take pleaſure in you, and give you the Reward of Peace and Reſt in your latter End; for he will certainly reward every one, <hi>According to their deeds done in the Body, whether they be good or evil.</hi>
+            </p>
+            <p>Friends, Remember and obey the Command of Chriſt Jeſus, who ſaid, <hi>Whatſoever ye would that men ſhould do unto you, do ye even ſo unto them:</hi> And he ſaid, <hi>If ye keep my Commandments, ye ſhall abide in my Love, as I have kept my Fathers Commandments, and abide in his Love.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſecution about the exerciſe of Faith and Worſhip unto God and Chriſt, hath made many Hypocrites; but it never made one True Chri<g ref="char:EOLhyphen"/>ſtian, nor ever will: Therefore let all Magiſtrates, Teachers &amp; People who are concerned therein, ſpeedily ceaſe from this Unchriſtian pra<g ref="char:EOLhyphen"/>ctice, &amp; repent of what is already done, that it may be well with them in the world to come.</p>
+            <closer>
+               <dateline>
+                  <hi>Given forth by a Member of the Church of Chriſt</hi>
+               </dateline>
+               <signed>William Gibſon.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:47283:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
